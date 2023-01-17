@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
 
         button123.setOnClickListener(new View.OnClickListener() {
 
+            
+
             int kam1 = 0;
 
             @Override
